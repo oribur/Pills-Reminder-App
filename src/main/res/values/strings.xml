@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="add_medicine">Add Medicine</string>
+    <string name="back">Back</string>
+    <string name="medicine_name">Medicine name:</string>
+    <string name="name">Name</string>
+    <string name="dose">Dose:</string>
+    <string name="_0_0">0.0</string>
+    <string name="_0_25">+0.25</string>
+    <string name="min_0_25">-0.25</string>
+    <string name="pills">(Pills)</string>
+    <string name="current_quantity">Current quantity:</string>
+    <string name="_0">0</string>
+    <string name="days_and_time">Days and time:</string>
+    <string name="morning">Morning</string>
+    <string name="noon">Noon</string>
+    <string name="evening">Evening</string>
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="quantity">Quantity:</string>
+    <string name="_0_0_pills">0.0 Pills</string>
+    <string name="days">Days:</string>
+    <string name="every_day">Every day</string>
+    <string name="time_on_day">Time on day:</string>
+    <string name="space" />
+</resources>
